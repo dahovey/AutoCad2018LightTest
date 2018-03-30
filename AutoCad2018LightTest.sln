@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCad2018LightTest", "AutoCad2018LightTest\AutoCad2018LightTest.csproj", "{1B604CCC-ACCB-4D48-839D-D011B6D3DC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCad2017LightTest", "AutoCad2017LightTest\AutoCad2017LightTest.csproj", "{25D5C80B-5BB8-4968-9F34-8255934C729A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B604CCC-ACCB-4D48-839D-D011B6D3DC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B604CCC-ACCB-4D48-839D-D011B6D3DC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B604CCC-ACCB-4D48-839D-D011B6D3DC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B604CCC-ACCB-4D48-839D-D011B6D3DC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D5C80B-5BB8-4968-9F34-8255934C729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D5C80B-5BB8-4968-9F34-8255934C729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D5C80B-5BB8-4968-9F34-8255934C729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D5C80B-5BB8-4968-9F34-8255934C729A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962E6F8F-FD72-4B5D-AC76-E7635ACE638F}
+	EndGlobalSection
+EndGlobal
