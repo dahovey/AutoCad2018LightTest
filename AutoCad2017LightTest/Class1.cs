@@ -11,7 +11,7 @@ namespace AutoCad2017LightTest
         public void Initialize()
         {
             var editor = Application.DocumentManager.MdiActiveDocument.Editor;
-            editor.WriteMessage("Hello from .NET Extension, 2017");
+            editor.WriteMessage("Hello from .NET Extension, 2017 LT");
         }
 
         public void Terminate()
